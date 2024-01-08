@@ -3,6 +3,7 @@ services:
     container_name: nestjs-std
     build: .
     hostname: nestjs
+    env_file: .env
     ports:
       - ${HTTP_PORT}:${HTTP_PORT}
     networks:
