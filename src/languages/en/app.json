@@ -1,0 +1,4 @@
+{
+  "hello": "This is test endpoint service {serviceName}.",
+  "helloApiKey": "This is test apikey endpoint service {serviceName}."
+}

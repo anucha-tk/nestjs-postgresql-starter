@@ -1,0 +1,21 @@
+{
+  "list": "Role lists",
+  "get": "Role get",
+  "create": "Create Succeed",
+  "update": "Update Succeed",
+  "delete": "Delete Succeed",
+  "softDelete": "Soft Delete Succeed",
+  "restore": "Restore Succeed",
+  "inactive": "Role update inactive succeed",
+  "active": "Role update active succeed",
+  "updateName": "Role update name succeed",
+  "updatePermissions": "Role update permissions succeed",
+  "error": {
+    "used": "Role in used",
+    "exist": "Role exist",
+    "notFound": "Role not found",
+    "typeForbidden": "Role type not allowed",
+    "inactive": "Role is inactive",
+    "isActiveInvalid": "Role is active invalid"
+  }
+}

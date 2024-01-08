@@ -1,0 +1,20 @@
+{
+  "list": "Get list of api keys succeed",
+  "get": "Get Detail of api key succeed",
+  "create": "Create api key succeed",
+  "reset": "Reset api key succeed",
+  "updateName": "Update name api key succeed",
+  "inactive": "Inactive api key succeed",
+  "updateDate": "Update date api key succeed",
+  "active": "Active api key succeed",
+  "softDelete": "Soft delete api key succeed",
+  "error": {
+    "isActiveInvalid": "API Key is active invalid",
+    "keyNeeded": "Api Key is missing",
+    "invalid": "Invalid API Key",
+    "notFound": "API Key not found",
+    "inactive": "Auth API Inactive",
+    "notActiveYet": "Api Key not active yet",
+    "expired": "API Key expired"
+  }
+}

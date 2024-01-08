@@ -1,0 +1,22 @@
+{
+  "create": "Create customer succeed",
+  "get": "Get customer succeed",
+  "list": "List customer succeed",
+  "update": "Update customer succeed",
+  "updateAddress": "Update address customer succeed",
+  "inactive": "Customer update inactive succeed",
+  "active": "Customer update active succeed",
+  "softDelete": "Customer soft delete succeed",
+  "recover": "Customer recover succeed",
+  "softRemove": "Customer soft remove succeed",
+  "delete": "Customer delete succeed",
+  "deleteMany": "Customer deleteMany succeed",
+  "error": {
+    "notFound": "Customer not found.",
+    "exist": "Customer exist",
+    "thaiNameExist": "Customer Thai Name exist",
+    "englishNameExist": "Customer English Name exist",
+    "inactive": "Customer is inactive",
+    "isActiveInvalid": "Customer is active invalid"
+  }
+}

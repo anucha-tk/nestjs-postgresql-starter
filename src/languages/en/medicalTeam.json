@@ -1,0 +1,12 @@
+{
+  "create": "Medical Team create success",
+  "get": "Medical Team get success",
+  "inactive": "Medical Team update inactive success",
+  "active": "Medical Team update active success",
+  "delete": "Medical Team delete success",
+  "update": "Medical Team update success",
+  "error": {
+    "notFound": "Medical Team not found.",
+    "isActiveInvalid": "Medical Team is active invalid"
+  }
+}

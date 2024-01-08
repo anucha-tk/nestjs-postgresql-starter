@@ -1,0 +1,12 @@
+{
+  "createCustomer": "Phone customer create success",
+  "get": "Phone get success",
+  "inactive": "Phone update inactive success",
+  "active": "Phone update active success",
+  "delete": "Phone delete success",
+  "update": "Phone update success",
+  "error": {
+    "notFound": "Phone not found.",
+    "isActiveInvalid": "Phone is active invalid"
+  }
+}
