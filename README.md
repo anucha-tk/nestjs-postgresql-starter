@@ -110,8 +110,12 @@ make start-postgres-test
 yarn test:unit
 ```
 
+![My Image](docs/images/unit.png)
+
 ### e2e-test
 
 ```bash
 yarn test:e2e
 ```
+
+![My Image](docs/images/e2e.png)
